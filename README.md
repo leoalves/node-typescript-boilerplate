@@ -1,5 +1,5 @@
-# node-vpn-daemon
+# node-typescript-boilerplate
 
-OpenVpn daemon to be used with node-openvpn-client. Supports only linux.
+Boilerplate to be used on new projects
 
 ## Quick start
